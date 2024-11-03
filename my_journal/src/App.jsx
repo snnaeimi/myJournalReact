@@ -9,7 +9,7 @@ function App() {
   });
 
   return (
-    <div>
+    <div className="w-[550px] mx-auto">
       <Navbar />
       {cards}
     </div>
